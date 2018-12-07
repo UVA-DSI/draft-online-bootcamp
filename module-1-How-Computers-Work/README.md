@@ -10,6 +10,7 @@
 
 ## Objective
 * Select the appropriate computational/programming resource to do the task at hand.
+* Research documentation on your own as a first line of action.
 
 ## Readings & Resources
 * Last Year's Bootcamp: https://github.com/UVA-DSI/2018-bootcamp
