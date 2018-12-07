@@ -12,15 +12,16 @@
 * Select the appropriate computational/programming resource to do the task at hand.
 * Research documentation on your own as a first line of action.
 
-## Readings & Resources
+## Readings & Resources - [link](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/resources.md)
 * Last Year's Bootcamp: https://github.com/UVA-DSI/2018-bootcamp
-* Bryan Wright’s Course - http://galileo.phys.virginia.edu/compfac/courses/
+* Bryan Wright’s Course: http://galileo.phys.virginia.edu/compfac/courses/
 * 
 
 ## Assignments
-* Document your computer's specifications
-* Explain what your computer can handle and what it cannot handle
-* MLS based discussion with Instructor posed questions
+* [1](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-1-discussion.md): Discussion
+* [2](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-2-hardware-and-scales.md): Document your computer's specifications, Explain what your computer can handle and what it cannot handle
+* [3](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-3-shells.md): Explain the pros/cons of CLI vs GUI
+* [4](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-4-software.md): Software
 
 ## Asynchronous
 * Learn about computer hardware
