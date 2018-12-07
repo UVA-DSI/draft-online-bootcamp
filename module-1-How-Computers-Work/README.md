@@ -29,6 +29,6 @@
 * Shells: CLI vs GUI
 * Package Management and Software Installation
 
-## Synchronous
+## Synchronous - [PREREQUISITES](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/SYNCHRONOUS_PREREQUISITES.md)
 * Instructor elaboration on key discussion points from MLS discussion
 * Q&A about what laptops can and cannot handle
