@@ -14,6 +14,7 @@
 
 ## Readings & Resources - [link](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/resources.md)
 * Last Year's Bootcamp: https://github.com/UVA-DSI/2018-bootcamp
+  * Use first half of [this page](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/Readme.md) to navigate for this module.
 * Bryan Wright’s Course: http://galileo.phys.virginia.edu/compfac/courses/
 * 
 
