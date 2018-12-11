@@ -2,6 +2,7 @@
 * Use them.  I’d ask you include an “adapted from Slides from Scott Hauck, University of Washington” or the like. Also check out the “examples” lecture notes that have some relevant problems. 
 
   * table and figure pending request for use (07)
+  * []() #https://class.ece.uw.edu/469/hauck/lectures/07_Caches.pdf
   * it shows cost and speed of different kinds of storage/memory
   * it shows computer memrory hierarchy
   
