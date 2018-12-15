@@ -9,7 +9,7 @@
 
 ## Key Terms
 
-## Readings & Resources - [link](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-2-version-control-with-GitHub/resources.md)
+## Readings & Resources
 * https://github.com/UVA-DSI/Open-Data-Lab/tree/master/education/GitHub
 * https://github.com/UVA-DSI/2018-bootcamp
 * https://github.com/UVA-DSI/2018-bootcamp/tree/master/intro-general-tools
