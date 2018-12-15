@@ -1,4 +1,4 @@
-# module 1: R
+# module 3: R
 
 ## Skills
 * Install R and Rstudio
