@@ -1,7 +1,5 @@
-# Assignment 3: Shells, CLI vs GUI, Pros/Cons
+# Assignment 3: Workflows
 
-## CLI
-
-## GUI
-
-## Pros/Cons
+* no collaboration through gui
+* no collaboration using laptop local and remote in the cloud
+* collaboration moderated by fork/pull request
