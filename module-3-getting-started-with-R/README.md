@@ -1,16 +1,13 @@
-# module 1: How Computers Work
+# module 1: R
 
 ## Skills
-* Describe the components of a computer
-* Explain the scales of computational power
-* Explain the scales of data
-* Differentiate between Windows, MacOS ,and Linux operating systems
-* Compare Command Line (CLI) and Graphical User Interface (GUI) shells
-* Install software
+* Install R and Rstudio
+* Discuss R environments and verions 
+* Install R packages (eg tidyverse)
+* Write a script
+* Discuss building blocks
+* Understand working directory and path
 
-## Objective
-* Select the appropriate computational/programming resource to do the task at hand.
-* Research documentation on your own as a first line of action.
 
 ## Readings & Resources - [link](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/resources.md)
 * Last Year's Bootcamp: https://github.com/UVA-DSI/2018-bootcamp
