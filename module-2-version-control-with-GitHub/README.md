@@ -1,35 +1,26 @@
-# module 1: How Computers Work
+# module 1: Version Control with Git and GitHub
 
-## Skills
-* Describe the components of a computer
-* Explain the scales of computational power
-* Explain the scales of data
-* Differentiate between Windows, MacOS ,and Linux operating systems
-* Compare Command Line (CLI) and Graphical User Interface (GUI) shells
-* Install software
+## Skills and Objectives
+* Explain the principles of version control software
+* Discuss the career benefits of maintaining a Github account
+* Use CLI to operate Git software for version control
+* Use GUI to operate Github website interface for version control
+* Use the Visual Studio Code editor to work on files and integrate with version control
 
-## Objective
-* Select the appropriate computational/programming resource to do the task at hand.
-* Research documentation on your own as a first line of action.
-
-## Readings & Resources - [link](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/resources.md)
-* Last Year's Bootcamp: https://github.com/UVA-DSI/2018-bootcamp
-  * Use first half of [this page](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/Readme.md) to navigate for this module.
-* Bryan Wright’s Course: http://galileo.phys.virginia.edu/compfac/courses/
-* 
+## Readings & Resources - [link](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-2-version-control-with-GitHub/resources.md)
+* https://github.com/UVA-DSI/Open-Data-Lab/tree/master/education/GitHub
+* https://github.com/UVA-DSI/2018-bootcamp
+* https://github.com/UVA-DSI/2018-bootcamp/tree/master/intro-general-tools
 
 ## Assignments
-* [1](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-1-discussion.md): Discussion
-* [2](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-2-hardware-and-scales.md): Document your computer's specifications, Explain what your computer can handle and what it cannot handle
-* [3](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-3-shells.md): Explain the pros/cons of CLI vs GUI
-* [4](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-4-software.md): Software
+* [1](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-4-software.md): Software
 
 ## Asynchronous
-* Learn about computer hardware
-* Learn about computer operating systems
-* Shells: CLI vs GUI
-* Package Management and Software Installation
+* Learn principles of version control
+* Learn git dialect
+* Learn github gui
+* Make a repo
+* Practice workflow
 
-## Synchronous - [PREREQUISITES](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/SYNCHRONOUS_PREREQUISITES.md)
-* Instructor elaboration on key discussion points from MLS discussion
-* Q&A about what laptops can and cannot handle
+## Synchronous - [PREREQUISITES](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-2-version-control-with-GitHub/live-session.md)
+* Pull requests / merging / conflicts
