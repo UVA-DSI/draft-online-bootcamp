@@ -12,7 +12,7 @@
 ## Readings & Resources
 * Last Year's Bootcamp: https://github.com/UVA-DSI/2018-bootcamp
   * [this page](https://github.com/UVA-DSI/2018-bootcamp/tree/master/R)
-* How I learned: [Great Book](Ihttps://r4ds.had.co.nz/) 
+* How I learned: [Great Book](https://r4ds.had.co.nz/) 
 
 ## Assignments
 * [1](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/assignment-1-discussion.md): Discussion
