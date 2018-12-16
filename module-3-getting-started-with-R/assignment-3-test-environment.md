@@ -1,7 +1,8 @@
-# Assignment 3: Shells, CLI vs GUI, Pros/Cons
+# Assignment 3: test your rstudio environment
 
-## CLI
+## set working directory
+think back to the concept of working directory from module 1 and the unix/bash command line
 
-## GUI
+figure out how to work the working directory in rstudio. practice your google skills
 
-## Pros/Cons
+work your way through the exercises in [last year's bootcamp](https://github.com/UVA-DSI/2018-bootcamp/tree/master/R)
