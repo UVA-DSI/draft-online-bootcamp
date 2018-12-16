@@ -12,7 +12,7 @@
 * Select the appropriate computational/programming resource to do the task at hand.
 * Research documentation on your own as a first line of action.
 
-## Readings & Resources - [link](https://github.com/UVA-DSI/online-bootcamp/blob/master/module-1-How-Computers-Work/resources.md)
+## Readings & Resources
 * Last Year's Bootcamp: https://github.com/UVA-DSI/2018-bootcamp
   * Use first half of [this page](https://github.com/UVA-DSI/2018-bootcamp/blob/master/intro-general-tools/Readme.md) to navigate for this module.
 * Bryan Wright’s Course: http://galileo.phys.virginia.edu/compfac/courses/
