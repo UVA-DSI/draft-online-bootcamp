@@ -1,7 +1,5 @@
-# Assignment 2: Computer Hardware and Scales
+# Assignment 1: install Rstudio
 
-## Computer Hardware
+https://www.rstudio.com/products/rstudio/download/#download
+use: RStudio Desktop Open Source License (it's free)
 
-## Data Scales
-
-## Computational Scales
